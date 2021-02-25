@@ -1,6 +1,6 @@
 
-<div dir='rtl'>
-    <div style="width: 100%; height: auto; text-align: center">
+<div>
+    <div align="center">
         <img src="https://drive.google.com/thumbnail?id=1qt9so1vEwYIKRboanCCEfbGqxpCz3n3p" style="filter: invert(1); height: 100pt;">
         <h4 style="width: 80%; margin: 0 auto">This is the GitHub repository for an Article writen for the Somnus website. Head over to our website to see more of our content.</h4>
     </div>
@@ -22,7 +22,7 @@
         </p>
     </div>
     <hr>
-    <div style="margin: 0 auto; text-align: center">
+    <div align="center">
         <h4 style="width: 80%; margin: 0 auto">The Somnus Team</h4>
         <a href="https://somnus.ddns.net/team" target="_blank">
             <img src="https://img.icons8.com/material/100/000000/user-group-man-woman--v1.png" style="height: 50pt" />
